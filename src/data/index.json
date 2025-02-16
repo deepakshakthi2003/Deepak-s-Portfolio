@@ -1,0 +1,86 @@
+
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "../../assets/product-chain-1.png",
+        "title": "Front-End Development ",
+        "description": "Creating Engaging User Experiences with React, React Native, HTML, CSS, and JavaScript"
+      },
+  
+      {
+        "id": "4",
+        "src": "../../assets/feather-pen-1.png",
+        "title": "Webflow Development",
+        "description": "Building  websites with Webflow for fast and efficient web development"
+      },
+      {
+        "id": "5",
+        "src": "../../assets/tag-1.png",
+        "title": "Languages",
+        "description": "Proficient in JavaScript, HTML, CSS, Sass, Git, C and C++"
+      },
+      {
+        "id": "6",
+        "src": "../../assets/feather-pen-2.png",
+        "title": "Libraries",
+        "description": "Experience with React.js,Next.js, DataTables"
+      },
+      {
+        "id": "7",
+        "src": "../../assets/product-chain-1.png",
+        "title": "Web Dev Tools",
+        "description": "Familiar with VSCode, GitHub, Yarn"
+      },
+      {
+        "id": "8",
+        "src": "../../assets/feather-pen-1.png",
+        "title": "Frameworks",
+        "description": "Knowledgeable in Vite.js"
+      },
+      {
+        "id": "9",
+        "src": "../../assets/tag-1.png",
+        "title": "Database",
+        "description": "Experience with SQL"
+      },
+      {
+        "id": "10",
+        "src": "../../assets/feather-pen-2.png",
+        "title": "Soft Skills",
+        "description": "Strong in Problem Solving, Self-learning, Debugging, and Adaptability"
+      }
+    ],
+  
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "../../assets/project_2.png",
+        "title": "Netflix Clone",
+        "description": " A responsive Netflix clone built with React, featuring seamless streaming and a dynamic UI. Developed a Netflix clone using ReactJS, simulating the functionality of a movie streaming platform. Focused on building interactive components for seamless navigation and user interaction.  It features a responsive design, dynamic movie/TV show listings, and an intuitive user experience. Integrated with Firebase for authentication, and TMDb API for fetching content. Includes watchlists, search functionality, and smooth animations, providing a seamless streaming experience across devices"
+      },
+      {
+        "id": "2",
+        "src": "../../assets/project_1.png",
+        "title": "Edusity",
+        "description": " A responsive e-learning platform built with React for seamless education across all devices.  A modern e-learning platform built using React, featuring a responsive web design for seamless accessibility across devices. The platform provides an intuitive dashboard, interactive video lessons, quizzes, and real-time progress tracking.  It uses Material UI/Tailwind CSS for a sleek UI and Firebase for authentication and database management. Optimized for performance and accessibility, Edusity ensures a smooth learning experience on desktops, tablets, and mobile devices."
+      }
+    ],
+    "testimonial": [
+      {
+        "id": "1",
+        "count": "5",
+        "description": "Deepak's has shown exceptional dedication and hard work in completing projects on time, often working late into the night. His commitment to timely delivery and going the extra mile has been appraised by both his team lead and manager.",
+        "author_name": "Team Lead",
+        "author_designation": "CDS Technologies"
+      },
+      {
+        "id": "2",
+        "count": "5",
+        "description": "Deepak's dedication and hard work have been recognized by his team lead and manager. He has consistently shown commitment to delivering high-quality work, often going above and beyond expectations.",
+        "author_name": "Manager",
+        "author_designation": "CDS Technologies"
+      }
+    ]
+  }
+  
